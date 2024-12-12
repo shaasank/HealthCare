@@ -1,0 +1,12 @@
+google-generativeai
+streamlit
+pymongo
+fpdf
+schedule
+python-dotenv
+scikit-learn
+networkx
+pandas
+imblearn
+streamlit-lottie
+bcrypt
